@@ -1,4 +1,3 @@
-```markdown
 # To Shroom or Not to Shroom
 
 ## Project Overview
@@ -84,4 +83,3 @@ The project successfully demonstrated the classification of mushrooms using vari
 12. [Mushroom World](https://www.mushroom.world/)
 13. [A Review on Evaluation Metrics for Data](https://d1wqtxts1xzle7.cloudfront.net/37219940/5215ijdkp01-libre.pdf?1428316763=&response-content-disposition=inline%3B+filename%3DA_REVIEW_ON_EVALUATION_METRICS_FOR_DATA.pdf&Expires=1713458786&Signature=IhDRdXJJDJrh35X6YEJUqTx6H~R7tr2RHvokaV9DAYOp6NrfmH0)
 14. [Secondary Mushroom Dataset](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset)
-```
